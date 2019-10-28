@@ -20,7 +20,7 @@ public class E54 {
 		if (n1 == n2 && n2 == n3) {
 			System.out.println("All the same.");
 		}
-		else if (n1 != n2 && n1 != n3) {
+		else if (n1 != n2 && n1 != n3 && n2 != n3) {
 			System.out.println("All different.");
 		}
 		else {
